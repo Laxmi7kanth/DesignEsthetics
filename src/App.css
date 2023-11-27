@@ -36,3 +36,275 @@
     transform: rotate(360deg);
   }
 }
+
+.ip-container{
+  border-width: 2px;
+  border-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.ips{
+  border-width: 1px;
+}
+
+.header-container{
+  display: flex;
+  flex-direction: column; 
+  height: 20vh;
+}
+
+.items{
+  display: flex;
+  width: 70vw;
+  justify-content: space-around;
+  align-self: flex-end;
+}
+
+.img-input{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.hr{
+  width: 10px;
+  color: black;
+  width: 100%;
+}
+
+.body-container{
+  background-image:url("https://res.cloudinary.com/dqjixulez/image/upload/v1701066240/home-banner-desk_oouu67.png");
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  color: white;
+}
+
+.heading{
+  width: 400px;
+  text-align: start;
+  margin-left: 50px;
+}
+
+.button{
+  margin-left: 50px;
+  height: 50px;
+  width: 100px;
+  color: #862d2d;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.first-footer{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background-color: #e0ebeb;
+}
+
+.cat{
+  display: flex;
+  justify-content: space-around;
+}
+
+.categories{
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.below-head-logo{
+  height: 50px;
+}
+
+
+.ita-exq{
+  display: flex;
+  flex-direction: column;
+}
+
+.new-collection{
+  height: 500px;
+  width: 600px;
+}
+
+.ita-ex{
+  height: 250px;
+  width: 420px;
+  margin: 2px;
+}
+
+.img-cont{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.exquisite-collection{
+  background-image: url("https://res.cloudinary.com/dqjixulez/image/upload/v1701071490/gold-treasure_sjnsgi.jpg");
+  background-size: cover;
+  height: 60vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top:50px;
+}
+
+.h{
+  text-align: start;
+  margin-right: 10px;
+}
+
+.cards-container{
+  display: flex;
+  justify-content: space-around;
+}
+
+.heading-social{
+  font-size: 10px;
+  text-align: start;
+}
+
+.paragraph-social{
+  font-size: 15px;
+  text-align: start;
+}
+
+.card-container{
+  display: flex;
+  flex-direction: column;
+  box-shadow: 5px 5px white;
+  margin: 10px;
+}
+
+.customized-jewellary{
+  background-image: url("https://res.cloudinary.com/dqjixulez/image/upload/v1701073509/medallion-1106635_1920_xjpdh2.jpg");
+  height: 70vh;
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.customized-card{
+  width: 500px;
+  text-align: start;
+  margin-left: 50px;
+  font-family: "Breef Serif";
+  font-weight: 200;
+}
+
+.connect-with-us{
+  background-color: gray;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.connect-with-us-card{
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.connect-with-us-card2{
+  width: 710px;
+  height: 200px;
+  background-color: white;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.connect-with-us-card-container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 90vw;
+}
+
+.vid{
+ font-size: 50px;
+  color: #ffbb99;
+}
+
+.foot-card{
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-us{
+  width: 200px;
+}
+
+.icons-container{
+  width: 25vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+.p-h{
+  font-size: 20px;
+}
+
+.f-p{
+  font-size: 10px;
+}
+
+.btn-exq{
+  height: 30px;
+  width: 80px;
+  color: white;
+  background-color: #862d2d;
+  font-weight: 700;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.trigger-button{
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.gold-rate{
+  display: flex;
+  align-items: center;
+}
+
+.trigger-button2{
+  border-width: 0px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.p-g{
+  font-size: 10px;
+}
+
+.get-started{
+  border-width: 0px;
+  text-decoration: underline;
+  color: #862d2d;
+  cursor: pointer;
+}
+
+.log-sign{
+  cursor: pointer;
+}
